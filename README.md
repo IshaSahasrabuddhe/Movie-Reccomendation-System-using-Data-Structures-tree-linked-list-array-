@@ -1,0 +1,2 @@
+# Movie-Reccomendation-System-using-Data-Structures-tree-linked-list-array-
+Hello! This is my Movie Recommendation Project, built with PHP, HTML, CSS, and JavaScript, and using a MySQL database from Kaggle. It includes a tree structure for data retrieval, a linked list for the wishlist, and a queue for watch history. I plan to add machine learning for better recommendations as I continue developing it.
